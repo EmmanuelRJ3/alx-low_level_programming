@@ -3,7 +3,9 @@
 #include <stdlib.h>
 
 /**
- * maint - Entry point
+ * main - Entry point
+ *
+ * Description: print the letters of the alphabet in reverse
  *
  * Return: Always 0 (Success)
  */
