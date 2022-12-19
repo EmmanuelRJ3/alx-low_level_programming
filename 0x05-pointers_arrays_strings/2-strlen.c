@@ -5,7 +5,7 @@
  *
  * Description: returns the length of a string
  *
- * @str: the strong to get the length of
+ * @s: the strong to get the length of
  *
  * Return: the length of @str
  */
